@@ -23,11 +23,6 @@ nav{
     justify-content: space-around;
     align-items: center;
 }
-.logo {
-    position: relative;
-    left: 100px; /* Điều chỉnh giá trị để phù hợp */
-    top: 20px;
-}
 
 .logo{
     color: white;
@@ -244,7 +239,4 @@ section{
     .main-container button{
         margin-top: 15px;
     }
-}
-img {
-    margin-top: -180px; /* Kéo ảnh lên 180px */
 }
